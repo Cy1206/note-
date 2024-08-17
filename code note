@@ -1,0 +1,4 @@
+#note 
+L=["Michael Jackson", 10.1,1982]
+L.extend(["pop",10])
+print L
